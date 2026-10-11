@@ -44,11 +44,11 @@ Também trabalhei com posicionamento, contraste e organização dos elementos vi
 
 O arquivo completo está disponível para download e pode ser aberto no Power BI Desktop.
 
-📊 **[Clique aqui para acessar ou baixar o projeto Power BI](Relatorio_Gerencial_de_Vendas.pbix)**
+📊 **[Clique aqui para acessar ou baixar o projeto Power BI](ProjetoRelatório_Gerencial_de_vendas_com_Power_BI.pbix)**
 
 ## 👩‍💻 Autora
 
-**Deborah Calixto**
+**Deborah dos Santos**
 
 Projeto desenvolvido como parte da Formação Power BI Analyst — DIO.
 
